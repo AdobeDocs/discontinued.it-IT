@@ -1,24 +1,24 @@
 ---
-title: Panoramica della discontinua [!DNL Adobe Experience Cloud] products
-description: Panoramica dei prodotti fuori uso, ritirati o fuori uso per [!DNL Adobe Experience Cloud] e [!DNL Adobe Experience Platform]
+title: Panoramica dei prodotti fuori produzione di  [!DNL Adobe Experience Cloud]
+description: Panoramica dei prodotti fuori produzione, ritirati o al fine del ciclo di vita di  [!DNL Adobe Experience Cloud]  e  [!DNL Adobe Experience Platform]
 source-git-commit: 68baba5c3f5347952723a31971b1b14902f2e442
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Panoramica dei prodotti Adobe Experience Cloud discontinui
+# Panoramica dei prodotti fuori produzione di Adobe Experience Cloud
 
-Adobe talvolta interrompe la vendita, lo sviluppo o il supporto di un prodotto o di una tecnologia a causa del cambiamento delle condizioni di mercato e dell&#39;impatto sui clienti.
+Adobe talvolta interrompe la vendita, lo sviluppo o il supporto di un prodotto o di una tecnologia a causa del cambiamento delle condizioni di mercato e dell’impatto sui clienti.
 
-## Elenco dei prodotti dismessi
+## Elenco dei prodotti fuori produzione
 
 * [[!DNL Device Co-op]](device-co-op.md)
 * [[!DNL Experience Platform Auditor]](auditor.md)
 * [[!DNL Livefyre]](livefyre.md)
-* [[!DNL Mobile Services]](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html){target=&quot;_blank&quot;}
+* [[!DNL Mobile Services]](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html?lang=it){target=&quot;_blank&quot;}
 * [[!DNL Search&Promote]](search-promote.md)
 * [[!DNL Social]](social.md)
 
@@ -29,21 +29,21 @@ Adobe talvolta interrompe la vendita, lo sviluppo o il supporto di un prodotto o
 
 -->
 
-## Elenco dei prodotti di secondo livello
+## Elenco dei prodotti che hanno cambiato nome
 
-* *[!DNL Adobe Acrobat DC]* è ora *[!DNL Adobe Acrobat]*.
-* *[!DNL Adobe Sign]* è ora *[!DNL Acrobat Sign]*.
-* *[!DNL Magento]* è ora *[!DNL Adobe Commerce]*.
-* *[!DNL Launch]*/*[!DNL Experience Platform Launch]* è ora indicato come *tag* in [!DNL Adobe Data Collection]. Vedi [Panoramica sui tag](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html).
-* *[!DNL XML Documentation for Adobe Experience Manager]* è ora *[!DNL Adobe Experience Manager Guides]*.
-* *[!DNL Captivate Prime]* è ora *[!DNL Adobe Learning Manager]*.
-* *[!DNL Bizible]* è ora *[!DNL Marketo Measure]*.
+* *[!DNL Adobe Acrobat DC]* ora si chiama *[!DNL Adobe Acrobat]*.
+* *[!DNL Adobe Sign]* ora si chiama *[!DNL Acrobat Sign]*.
+* *[!DNL Magento]* ora si chiama *[!DNL Adobe Commerce]*.
+* *[!DNL Launch]*/*[!DNL Experience Platform Launch]* è ora denominato come *tag* in [!DNL Adobe Data Collection]. Consulta la [Panoramica sui tag](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=it).
+* *[!DNL XML Documentation for Adobe Experience Manager]* ora si chiama *[!DNL Adobe Experience Manager Guides]*.
+* *[!DNL Captivate Prime]* ora si chiama *[!DNL Adobe Learning Manager]*.
+* *[!DNL Bizible]* ora si chiama *[!DNL Marketo Measure]*.
 
-## Altri prodotti dismessi
+## Ulteriori prodotti fuori produzione
 
-* *[!DNL Adobe Bloodhound]* è stato tramonto il 1° maggio 2017.
-* *[!DNL AEM Mobile]* è stato interrotto il 3 aprile 2021. Vedi [Domande frequenti sulla fine del ciclo di vita di AEM Mobile](https://helpx.adobe.com/digital-publishing-solution/help/aem-mobile-end-of-life-faq.html).
+* *[!DNL Adobe Bloodhound]* è stato dismesso il 1° maggio 2017.
+* *[!DNL AEM Mobile]* è stato dismesso il 3 aprile 2021. Consulta le [Domande frequenti sulla fine del ciclo di vita di AEM Mobile](https://helpx.adobe.com/it/digital-publishing-solution/help/aem-mobile-end-of-life-faq.html).
 
 >[!MORELIKETHIS]
 >
->Per un elenco di app e servizi Adobi discontinui aggiuntivi, vedi [Prodotti gratuiti e discontinui | Opzioni di supporto](https://helpx.adobe.com/support/programs/support-options-free-discontinued-apps-services.html).
+>Per un elenco di ulteriori app e servizi di fine produzione di Adobe, consulta [Prodotti gratuiti e di fine produzione | Opzioni di supporto](https://helpx.adobe.com/it/support/programs/support-options-free-discontinued-apps-services.html).
