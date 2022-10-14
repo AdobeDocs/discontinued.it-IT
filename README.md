@@ -1,10 +1,10 @@
 ---
 source-git-commit: aec0e79e0eeaecce503b8b3dbc3ef493680db534
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '10'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
-# Livefye
+# Livefyre
 
-Questo repository è ora archiviato. Vedi discontinue.en per i dettagli.s
+Questo repository è ora archiviato. Vedi discontinued.en per i dettagli.
