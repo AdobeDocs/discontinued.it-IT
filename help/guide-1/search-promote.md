@@ -1,29 +1,29 @@
 ---
-title: "[!DNL Adobe Search&Promote] Annuncio di fine servizio"
-description: Ulteriori informazioni sulle [!DNL Adobe Search&Promote] Annuncio di fine servizio.
+title: “Annuncio di fine servizio di [!DNL Adobe Search&Promote]”
+description: Ulteriori informazioni sull’annuncio di fine servizio di  [!DNL Adobe Search&Promote] .
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
 source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '179'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!DNL Adobe Search&Promote] Annuncio di fine servizio
+# Annuncio di fine servizio di [!DNL Adobe Search&Promote]
 
 ## Domande frequenti sulla fine del servizio per [!DNL Search&Promote]
 
-### **_A che data [!DNL Search&Promote] cessare di operare?_**
+### **_In che data [!DNL Search&Promote] cesserà di funzionare?_**
 
-Fine del servizio per [!DNL Adobe Search&Promote] è programmato per **1 settembre 2022**. In tale data, il [!DNL Search&Promote] l’interfaccia utente amministrativa non sarà più accessibile e richiede a [!DNL Search&Promote] Le API non produrranno più risultati. Prima di questa data, il servizio sarà completamente disponibile e funzionante. In previsione del 1° settembre 2022, i diritti contrattuali a [!DNL Search&Promote] non sarà consentito oltre il 31 agosto 2022.
+La fine del servizio per [!DNL Adobe Search&Promote] è programmata per il **1° settembre 2022**. In tale data, l’interfaccia utente amministrativa [!DNL Search&Promote] non sarà più accessibile e le richieste alle API [!DNL Search&Promote] non produrranno più risultati. Prima di questa data, il servizio sarà completamente disponibile e funzionante. In previsione del 1° settembre 2022, i diritti contrattuali a [!DNL Search&Promote] non saranno consentiti oltre il 31 agosto 2022.
 
 ### **_Cosa succede se viene effettuata una ricerca o un’altra richiesta API a [!DNL Search&Promote]?_**
 
-Richieste di ricerca e altre richieste API effettuate a [!DNL Search&Promote] non restituirà più i risultati. Le richieste possono causare un errore &quot;Host non trovato&quot;, un reindirizzamento HTTP 3xx o un errore HTTP come 404, 408 o altro codice di errore HTTP.
+Richieste di ricerca e altre richieste API effettuate a [!DNL Search&Promote] non restituiranno più i risultati. Le richieste possono causare un errore “Host non trovato”, un reindirizzamento HTTP 3xx o un errore HTTP come 404, 408 o altro codice di errore HTTP.
 
 ### **_Adobe dispone di opzioni alternative per la ricerca nel sito e la ricerca commerciale?_**
 
-Sì. Ricerca di prodotti e commercio, [Ricerca live da [!DNL Adobe Commerce]](https://devdocs.magento.com/live-search/overview.html) è l&#39;applicazione di ricerca Adobe in corso.
+Sì. [Ricerca live da [!DNL Adobe Commerce]](https://devdocs.magento.com/live-search/overview.html) è l’applicazione di ricerca Adobe in corso per la ricerca di prodotti e commercio.
 
 <!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 
