@@ -4,9 +4,9 @@ title: “Domande frequenti sulla fine del ciclo di vita di [!DNL Device Co-op]�
 description: Scopri i piani di fine del ciclo di vita di Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 180dd414dd0b595518f54cddc5b02ed06ecc0b16
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1138'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -102,7 +102,7 @@ L’adozione di altre funzionalità non è obbligatoria. Lo consigliamo solo se 
 
 Questo dipenderà dalla funzionalità. Ad esempio, se un cliente Analytics Ultimate che utilizza Analytics tra dispositivi con [!DNL Device Co-op] desidera migrare al grafico in tempo reale per il dispositivo privato oppure all’unione basata sul campo, l’adozione richiederà un po’ di tempo.
 
-## E per quanto riguarda [!UICONTROL Persone] metrica?
+## E per quanto riguarda la metrica sulle [!UICONTROL Persone]?
 
-Con l&#39;esclusione del [!DNL Device Co-op], il [!UICONTROL Persone] La metrica non è più rilevante. Nel prossimo futuro (data da definire), rimuoveremo il [!UICONTROL Persone] metrica. A questo punto, i dati verranno reindirizzati al [!UICONTROL Visitatore univoco] in Analytics per evitare che progetti, segmenti e metriche calcolate si interrompano.
+Con l’esclusione del [!DNL Device Co-op], la metrica sulle [!UICONTROL Persone] non è più rilevante. Nel prossimo futuro (data da definire), rimuoveremo la metrica sulle [!UICONTROL Persone]. A questo punto, i dati verranno reindirizzati alla metrica del [!UICONTROL Visitatore univoco] in Analytics per evitare che progetti, segmenti e metriche calcolate si interrompano.
 
