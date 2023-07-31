@@ -1,46 +1,46 @@
 ---
 title: Domande frequenti sulla fine del ciclo di vita di Adobe Mobile Services
-description: Risposte alle domande più frequenti sull’annuncio relativo alla fine del ciclo di vita, ad Adobe Mobile Services.
+description: Risposte alle domande più frequenti sull’annuncio relativo alla fine del ciclo di vita di Adobe Mobile Services.
 exl-id: c5f44341-7b87-4530-b86e-17e2911a7959
 source-git-commit: 343e0a727c570c9eec503d7903d0477134fc6189
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '421'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # Domande frequenti sulla fine del ciclo di vita di Adobe Mobile Services
 
-La data di fine del ciclo di vita di Adobe Mobile Services era **31 dicembre 2022**.
+La data di fine del ciclo di vita di Adobe Mobile Services era il **31 dicembre 2022**.
 
-## Cosa sta succedendo?
+## Cosa succede?
 
-Mobile Services ha raggiunto la fine del ciclo di vita il 31 dicembre 2022. Mobile Services, che supporta un&#39;interfaccia utente incentrata su dispositivi mobili, l&#39;acquisizione, i collegamenti profondi, la messaggistica in-app, le notifiche push e la geolocalizzazione, non è più supportato dopo questa data.
+Mobile Services ha raggiunto la fine del ciclo di vita il 31 dicembre 2022. Dopo tale data, Mobile Services, che supporta un’interfaccia utente incentrata su dispositivi mobili, acquisizione, deep linking, messaggistica in-app, notifiche push e geolocalizzazione, non è più supportato.
 
 ## Cosa è incluso e cosa non è incluso?
 
-Questa fine del ciclo di vita include solo Adobe Mobile Services, la piattaforma indipendente in [mobilemarketing.adobe.com](https://mobilemarketing.adobe.com). Gli SDK per dispositivi mobili versione 4 che si basano su questa interfaccia sono stati ritirati il 31 agosto 2021.
+Questo annuncio di fine del ciclo di vita include solo Adobe Mobile Services, la piattaforma indipendente in [mobilemarketing.adobe.com](https://mobilemarketing.adobe.com). Gli SDK per dispositivi mobili versione 4 che si basano su questa interfaccia sono stati ritirati il 31 agosto 2021.
 
-Questa fine del ciclo di vita NON include Adobe Analytics per le app mobili, che fa parte degli SDK di Adobe Experience Platform Mobile. Queste funzioni, che includono il comportamento in-app, l’analisi del ciclo di vita, il tracciamento delle interazioni con i messaggi e i profili di pubblico, continuano a ricevere supporto da Adobe.
+Questo annuncio di fine del ciclo di vita NON include Adobe Analytics per app mobili, che fa parte degli SDK di Adobe Experience Platform per dispositivi mobili. Queste funzioni, che includono il comportamento in-app, l’analisi del ciclo di vita, il tracciamento delle interazioni con i messaggi e i profili di pubblico, continuano a ricevere supporto da Adobe.
 
 ## Perché la funzionalità viene ritirata?
 
-Con l&#39;espansione delle capacità di marketing mobile di Adobe, le funzionalità precedentemente disponibili in Mobile Services verranno rilasciate nelle soluzioni Adobe Experience Cloud o offerte tramite i partner Adobi Exchange Premier. Questa transizione offre funzionalità di mobile marketing più potenti e flessibili.
+Con la continua espansione delle capacità di mobile marketing di Adobe, le funzionalità precedentemente disponibili in Mobile Services verranno rilasciate nelle soluzioni Adobe Experience Cloud o offerte tramite Adobe Exchange Premier Partners. Questa transizione offre funzionalità di mobile marketing più potenti e flessibili.
 
 ## Cosa succederà alle regole di elaborazione esistenti create in Mobile Services?
 
-[Regole di elaborazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html) create o generate nell’interfaccia utente di Mobile Services, migreranno automaticamente ad Adobe Analytics prima della data di fine del ciclo di vita di Mobile Services. Le regole di elaborazione migrate si comportano in modo simile ad altre regole di elaborazione in Adobe Analytics, dove puoi visualizzarle o modificarle liberamente. Per questa migrazione non è richiesta alcuna azione da parte dell’utente.
+Le [Regole di elaborazione](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=it) create o generate nell’interfaccia utente di Mobile Services, verranno migrate automaticamente ad Adobe Analytics prima della data di fine del ciclo di vita di Mobile Services. Le regole di elaborazione migrate si comportano in modo simile ad altre regole di elaborazione in Adobe Analytics, dove puoi visualizzarle o modificarle liberamente. Questa migrazione non richiede alcuna azione da parte dell’utente.
 
-Dopo la scadenza di Mobile Services, tutta la logica delle regole di elaborazione verrà gestita esclusivamente all’interno di Adobe Analytics, in genere incluso l’utilizzo di [Variabili di dati di contesto](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/contextdata.html).
+Dopo la scadenza di Mobile Services, tutta la logica delle regole di elaborazione verrà gestita esclusivamente all’interno di Adobe Analytics, incluso l’utilizzo delle [variabili di dati di contesto](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/contextdata.html?lang=it).
 
 ## Quali opzioni di transizione sono disponibili?
 
 Adobe offre tre percorsi di transizione a seconda del caso d’uso dell’organizzazione.
 
-1. **Messaggistica in-app e notifiche push**: un Adobe di può effettuare la transizione dei flussi di lavoro di messaggistica in Adobe Journey Optimizer. Questo prodotto consente alle organizzazioni di ottimizzare e personalizzare le esperienze nell’intero percorso di clienti, inclusa la messaggistica mobile.
-1. **Acquisizione e collegamenti profondi**: l&#39;acquisizione e i collegamenti profondi sono offerti tramite il programma Adobe Exchange Premier Partner. Il team di Adobe può effettuare le presentazioni appropriate per garantire la soluzione più adatta alle tue esigenze.
-1. **Places Service**: Places Service offre funzionalità gratuite di geolocalizzazione. Consulta la [Documentazione di Places Service](https://experienceleague.adobe.com/docs/places/using/home.html).
+1. **Messaggistica in-app e notifiche push**: Adobe consente di effettuare la transizione dei flussi di lavoro di messaggistica in Adobe Journey Optimizer. Questo prodotto consente alle organizzazioni di ottimizzare e personalizzare le esperienze lungo l’intero percorso del cliente, inclusa la messaggistica mobile.
+1. **Acquisizione e deep linking**: acquisizione e deep linking sono offerti tramite il programma Adobe Exchange Premier Partners. Il team che gestisce i partner Adobe ti può presentare al partner più adatto per aiutarti a trovare la soluzione migliore per le tue esigenze.
+1. **Servizio Places**: il servizio Places offre funzionalità gratuite di geolocalizzazione. Consulta la [documentazione del servizio Places](https://experienceleague.adobe.com/docs/places/using/home.html?lang=it).
 
-## Dove posso andare se ho delle domande?
+## Dove posso trovare risposte alle eventuali domande?
 
-Consulta la [Pagina Spark di fine del ciclo di vita di Adobe Mobile Services](https://spark.adobe.com/page/C6D30y09zaRpD/) per ulteriori informazioni. Per ulteriori domande, contatta il rappresentante del tuo Adobe.
+Per ulteriori informazioni, consulta la [Spark Page sulla fine del ciclo di vita di Adobe Mobile Services](https://spark.adobe.com/page/C6D30y09zaRpD/). Per ulteriori domande, contatta il tuo rappresentante Adobe.
