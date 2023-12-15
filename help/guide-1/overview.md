@@ -3,9 +3,9 @@ title: Panoramica dei prodotti fuori produzione di  [!DNL Adobe Experience Cloud
 description: Panoramica dei prodotti fuori produzione, ritirati o al fine del ciclo di vita di  [!DNL Adobe Experience Cloud]  e  [!DNL Adobe Experience Platform]
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
 source-git-commit: 55fd2cc6ba04830e11d87730b5a8921f5f0fb6dd
-workflow-type: ht
-source-wordcount: '112'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
