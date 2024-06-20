@@ -3,7 +3,7 @@ title: Avviso di fine del ciclo di vita di Reports and Analytics
 description: Promemoria sulla fine del ciclo di vita di Reports and Analytics.
 exl-id: e6d8f3e7-7070-44f9-aa2a-aad297d15847
 source-git-commit: d8a954bf197c87d3ef705bdf8bc67b9810c2502b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 100%
 
