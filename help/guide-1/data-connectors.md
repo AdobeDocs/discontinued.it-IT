@@ -1,21 +1,21 @@
 ---
-description: Scopri come interrompere le integrazioni Adobe Analytics Data Connectors.
-title: Fine del ciclo di vita delle integrazioni Analytics Data Connectors
+description: Ulteriori informazioni sull’interruzione delle integrazioni di Data Connectors di Adobe Analytics.
+title: Fine del ciclo di vita delle integrazioni di Data Connectors di Analytics
 exl-id: b407675a-9fcf-4f24-bc88-69ccdb5b3658
 source-git-commit: 4bcdf13748a4723ec088d8fa6ca57c664b3e2a32
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '294'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
-# Fine del ciclo di vita delle integrazioni Data Connectors di Adobe
+# Fine del ciclo di vita delle integrazioni di Data Connectors di Adobe
 
 **A partire dal 19 agosto 2021**, Adobe ha interrotto le integrazioni dei connettori dati e le ha sostituite con [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product). Adobe intende rendere la transizione il più semplice possibile per clienti e partner.
 
 Adobe Analytics si propone di fornire analisi web e di marketing all’avanguardia per soddisfare le esigenze dei clienti. Con l’evolversi delle esigenze tecnologiche e aziendali, Adobe si impegna a fornire e soddisfare costantemente gli standard più elevati. Le API che alimentano le integrazioni dei connettori dati non soddisfano più tali standard e non sono sostenibili nelle moderne infrastrutture tecnologiche di Adobe.
 
-Tieni presente che questo annuncio di fine del ciclo di vita non si applica ai connettori sorgente Adobe, che sono una funzione di raccolta dati all’interno di Adobe Experience Platform. I connettori di origini di Adobe, talvolta denominati Data Connectors di Adobe, sono completamente supportati da Adobe.
+Tieni presente che questo annuncio di fine del ciclo di vita non si applica ai connettori di origine di Adobe, che sono una funzione di raccolta dati all’interno di Adobe Experience Platform. I connettori di origine di Adobe, talvolta denominati Data Connectors di Adobe, sono completamente supportati da Adobe.
 
 ## Perché Adobe ha dismesso questa funzione?
 
