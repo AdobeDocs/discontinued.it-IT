@@ -3,8 +3,8 @@ title: Domande frequenti sulla fine del ciclo di vita di Adobe Mobile Services
 description: Risposte alle domande più frequenti sull’annuncio relativo alla fine del ciclo di vita di Adobe Mobile Services.
 exl-id: c5f44341-7b87-4530-b86e-17e2911a7959
 source-git-commit: 343e0a727c570c9eec503d7903d0477134fc6189
-workflow-type: ht
-source-wordcount: '421'
+workflow-type: tm+mt
+source-wordcount: '396'
 ht-degree: 100%
 
 ---
