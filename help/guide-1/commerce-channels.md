@@ -2,7 +2,7 @@
 title: Estensione Channel Manager per Adobe Commerce
 description: Ulteriori informazioni sulla fine del ciclo di vita dell’estensione Channel Manager per Adobe Commerce.
 source-git-commit: 08c3b323fcff5630b5165946508689c5556e54b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
 ht-degree: 100%
 
