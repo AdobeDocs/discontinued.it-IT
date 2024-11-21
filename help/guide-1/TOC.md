@@ -3,9 +3,9 @@ user-guide-title: Prodotti fuori produzione per  [!DNL Adobe Experience Cloud]
 breadcrumb-title: Prodotti fuori produzione
 user-guide-description: Elenco dei prodotti fuori prodizione per  [!DNL Adobe Experience Cloud].
 source-git-commit: 22deb719690c0eca6ce1b99b2180f892434a231d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '36'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
