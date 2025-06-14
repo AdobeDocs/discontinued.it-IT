@@ -1,11 +1,11 @@
 ---
-title: “Documentazione del prodotto [!DNL Adobe Social]”
-description: “Risorse della Guida utente di [!DNL Adobe Social]”
+title: Documentazione di [!DNL Adobe Social]
+description: Risorse della Guida utente di [!DNL Adobe Social]
 exl-id: 48527ae3-bc6a-4f30-9309-701bb2be0650
-source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
+source-git-commit: 71f90bc9bf13269539bcfadcb40c60dce10b0bab
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 100%
+source-wordcount: '54'
+ht-degree: 62%
 
 ---
 
@@ -13,4 +13,4 @@ ht-degree: 100%
 
 A partire dal 30 gennaio 2020, Adobe ha dichiarato ufficialmente obsoleto il prodotto [!DNL Adobe Social]. Non è più disponibile per l’accesso.
 
-Per i clienti che desiderano acquistare una piattaforma [!DNL Social Media Management], Adobe ha collaborato con un importante provider di Social Media Management. Se vuoi essere messo in contatto, vai a [https://adobeexchangeec.zendesk.com/hc/it-it/requests/new](https://adobeexchangeec.zendesk.com/hc/it-it/requests/new) per ulteriori informazioni.
+Per i clienti che desiderano acquistare una piattaforma [!DNL Social Media Management], Adobe ha collaborato con un importante provider di Social Media Management. Se desideri essere contattato, vai a [https://adobeexchangeec.zendesk.com/hc/en-us/requests/new](https://adobeexchangeec.zendesk.com/hc/it-it/requests/new) per informazioni.
