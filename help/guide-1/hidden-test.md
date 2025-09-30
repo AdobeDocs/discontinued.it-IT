@@ -4,16 +4,16 @@ description: Questo è un test nascosto
 hide: true
 hidefromtoc: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: 32514db7ecdf26a4aea9270b776b3c6e2fe0e354
+source-git-commit: f8aff1ee59ba9b56ba1c67edd26c9d559b0d5b5c
 workflow-type: tm+mt
-source-wordcount: '39'
+source-wordcount: '41'
 ht-degree: 0%
 
 ---
 
 # Test nascosto
 
-Questo è un test nascosto.  Non dovrebbe apparire.
+Questo è un test nascosto.  Non deve comparire nella ricerca.
 
 
 ## Test testo al passaggio del mouse
