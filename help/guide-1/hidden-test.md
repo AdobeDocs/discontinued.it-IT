@@ -4,9 +4,9 @@ description: Questo è un test nascosto
 hide: true
 hidefromtoc: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: fdcc74a0636e2de1f3e2fd751a09f8d19f9994b9
+source-git-commit: f44cf6b15dd54f8a9671957d4fc11594bdd75987
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 Questo è un test nascosto.  Non deve comparire nella ricerca.
 
-Bob era qui per una dimostrazione.
+Bob è stato qui per una demo sprint, e ancora una volta dopo che Lakshay è entrato in produzione...
 
 Ajay era qui.
 
