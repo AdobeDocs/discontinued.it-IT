@@ -4,9 +4,9 @@ description: Questo è un test nascosto
 hide: true
 hidefromtoc: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f44cf6b15dd54f8a9671957d4fc11594bdd75987
+source-git-commit: 221759dd781b3db95a10098b2d0d727f1d5f08bf
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ Questo è un test nascosto.  Non deve comparire nella ricerca.
 
 Bob è stato qui per una demo sprint, e ancora una volta dopo che Lakshay è entrato in produzione...
 
-Ajay era qui.
+2 ottobre
 
 ## Test testo al passaggio del mouse
 
