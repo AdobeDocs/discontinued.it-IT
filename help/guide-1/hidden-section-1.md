@@ -15,6 +15,6 @@ ht-degree: 0%
 Test nascosto 1
 Test: verificare che la modifica sia applicata in tutti i repository lang.
 
-# Titolo nascosto
+&#x200B;# Titolo nascosto
 
 Convalida maiuscole
