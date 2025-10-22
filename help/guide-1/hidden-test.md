@@ -5,10 +5,11 @@ hide: true
 hidefromtoc: true
 landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
+feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: c901ef4b1607a3d03a995b8e6ada5860ae587706
+source-git-commit: 89046c442b4cc4af0b8d205e2aea0554db75720d
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -19,7 +20,7 @@ Questo è un test nascosto.  Non deve comparire nella ricerca.
 
 Bob è stato qui per una demo sprint, e ancora una volta dopo che Lakshay è entrato in produzione...
 
-16 ottobre
+22 ottobre
 
 ## Test testo al passaggio del mouse {#this-is-a-heading-anchor}
 
@@ -51,6 +52,8 @@ https://experienceleague-stage.adobe.com/en/slides/analyze-project
 
 Rendering:
 
+<!--
 >[!SLIDE](analyze-project)
+-->
 
-Bob era qui
+Bob: rimuovi il commento della diapositiva dopo aver verificato l’elemento relativo alla posizione dell’argomento.
