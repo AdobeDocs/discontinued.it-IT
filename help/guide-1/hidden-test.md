@@ -28,8 +28,8 @@ Notifica Slack? 30 ottobre.
 
 | Attività | Descrizione |
 | -----------| ---------- |  
-| [Implementazione del servizio Experience Cloud ID per Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html) | Adobe consiglia inoltre di impostare [ID cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) aggiuntivi. Questi ID sono associati a ciascun visitatore e abilitano le funzionalità attuali e future di Experience Cloud. |
-| Aggiorna `s_code` esistente alla versione H.27.3 o successiva oppure `AppMeasurement.js` esistente alla versione 1.4 o successiva. | Questi file sono disponibili per il download in [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html) in Strumenti di amministrazione di Analytics. La guida all&#39;implementazione di [JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js) è disponibile se hai bisogno di ulteriori informazioni su `AppMeasurement.js`. |
+| [Implementazione del servizio Experience Cloud ID per Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=it) | Adobe consiglia inoltre di impostare [ID cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=it) aggiuntivi. Questi ID sono associati a ciascun visitatore e abilitano le funzionalità attuali e future di Experience Cloud. |
+| Aggiorna `s_code` esistente alla versione H.27.3 o successiva oppure `AppMeasurement.js` esistente alla versione 1.4 o successiva. | Questi file sono disponibili per il download in [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=it) in Strumenti di amministrazione di Analytics. La guida all&#39;implementazione di [JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=it#js) è disponibile se hai bisogno di ulteriori informazioni su `AppMeasurement.js`. |
 
 ## Collegamenti relativi
 
