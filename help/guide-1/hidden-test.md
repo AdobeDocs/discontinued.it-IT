@@ -7,9 +7,9 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: ee1a5052cfd3f3920a2d4d283c06d2d5dfa53704
+source-git-commit: fe047becf693716e042bb5ed064546e14e460e75
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '322'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,7 @@ ht-degree: 0%
 
 Questo è un test nascosto. Sto aggiungendo `[` per assicurarmi che funzioni correttamente nel rendering v2.
 
-Bob era qui per una demo sprint, e di nuovo dopo che Lakshay è entrato in produzione.
-
-Matt era qui - 28 ottobre.
-
-Notifica Slack non ricevuta - sarikaaaa. test del 5 novembre non inviare
+9 novembre 2025
 
 ## Tabella non valida
 
@@ -30,22 +26,22 @@ Notifica Slack non ricevuta - sarikaaaa. test del 5 novembre non inviare
 
 | Attività | Descrizione |
 | -----------| ---------- |
-| [Implementazione del servizio Experience Cloud ID per Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=it) | Adobe consiglia inoltre di impostare [ID cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=it) aggiuntivi. Questi ID sono associati a ciascun visitatore e abilitano le funzionalità attuali e future di Experience Cloud. |
-| Aggiorna `s_code` esistente alla versione H.27.3 o successiva oppure `AppMeasurement.js` esistente alla versione 1.4 o successiva. | Questi file sono disponibili per il download in [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=it) in Strumenti di amministrazione di Analytics. La guida all&#39;implementazione di [JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=it#js) è disponibile se hai bisogno di ulteriori informazioni su `AppMeasurement.js`. |
+| [Implementazione del servizio Experience Cloud ID per Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html) | Adobe consiglia inoltre di impostare [ID cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) aggiuntivi. Questi ID sono associati a ciascun visitatore e abilitano le funzionalità attuali e future di Experience Cloud. |
+| Aggiorna `s_code` esistente alla versione H.27.3 o successiva oppure `AppMeasurement.js` esistente alla versione 1.4 o successiva. | Questi file sono disponibili per il download in [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html) in Strumenti di amministrazione di Analytics. La guida all&#39;implementazione di [JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js) è disponibile se hai bisogno di ulteriori informazioni su `AppMeasurement.js`. |
 
 **Due spazi in più**
 
 | Attività | Descrizione |
 | -----------| ---------- |
-| [Implementazione del servizio Experience Cloud ID per Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=it) | Adobe consiglia inoltre di impostare [ID cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=it) aggiuntivi. Questi ID sono associati a ciascun visitatore e abilitano le funzionalità attuali e future di Experience Cloud. |
-| Aggiorna `s_code` esistente alla versione H.27.3 o successiva oppure `AppMeasurement.js` esistente alla versione 1.4 o successiva. | Questi file sono disponibili per il download in [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=it) in Strumenti di amministrazione di Analytics. La guida all&#39;implementazione di [JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=it#js) è disponibile se hai bisogno di ulteriori informazioni su `AppMeasurement.js`. |
+| [Implementazione del servizio Experience Cloud ID per Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html) | Adobe consiglia inoltre di impostare [ID cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) aggiuntivi. Questi ID sono associati a ciascun visitatore e abilitano le funzionalità attuali e future di Experience Cloud. |
+| Aggiorna `s_code` esistente alla versione H.27.3 o successiva oppure `AppMeasurement.js` esistente alla versione 1.4 o successiva. | Questi file sono disponibili per il download in [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html) in Strumenti di amministrazione di Analytics. La guida all&#39;implementazione di [JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js) è disponibile se hai bisogno di ulteriori informazioni su `AppMeasurement.js`. |
 
 **Spazi aggiuntivi ma non dopo il divisore di intestazione**
 
 | Attività | Descrizione |
 | -----------| ---------- |
-| [Implementazione del servizio Experience Cloud ID per Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html?lang=it) | Adobe consiglia inoltre di impostare [ID cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html?lang=it) aggiuntivi. Questi ID sono associati a ciascun visitatore e abilitano le funzionalità attuali e future di Experience Cloud. |
-| Aggiorna `s_code` esistente alla versione H.27.3 o successiva oppure `AppMeasurement.js` esistente alla versione 1.4 o successiva. | Questi file sono disponibili per il download in [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html?lang=it) in Strumenti di amministrazione di Analytics. La guida all&#39;implementazione di [JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html?lang=it#js) è disponibile se hai bisogno di ulteriori informazioni su `AppMeasurement.js`. |
+| [Implementazione del servizio Experience Cloud ID per Analytics](https://experienceleague.adobe.com/docs/id-service/using/implementation/setup-analytics.html) | Adobe consiglia inoltre di impostare [ID cliente](https://experienceleague.adobe.com/docs/id-service/using/reference/authenticated-state.html) aggiuntivi. Questi ID sono associati a ciascun visitatore e abilitano le funzionalità attuali e future di Experience Cloud. |
+| Aggiorna `s_code` esistente alla versione H.27.3 o successiva oppure `AppMeasurement.js` esistente alla versione 1.4 o successiva. | Questi file sono disponibili per il download in [Code Manager](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/code-manager-admin.html) in Strumenti di amministrazione di Analytics. La guida all&#39;implementazione di [JavaScript](https://experienceleague.adobe.com/docs/analytics/implementation/js/overview.html#js) è disponibile se hai bisogno di ulteriori informazioni su `AppMeasurement.js`. |
 
 ## Collegamenti relativi
 
