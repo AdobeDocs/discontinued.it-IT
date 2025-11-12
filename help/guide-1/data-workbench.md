@@ -1,11 +1,11 @@
 ---
-title: “Fine del ciclo di vita di [!DNL Data Workbench]”
+title: Fine del ciclo di vita di [!DNL Data Workbench]
 description: Questo documento riguarda le domande frequenti relative alla fine del ciclo di vita di  [!DNL Data Workbench].
 exl-id: 88a2c977-2c21-4bf8-9d58-24cb1ea2a075
-source-git-commit: d8a954bf197c87d3ef705bdf8bc67b9810c2502b
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
 workflow-type: tm+mt
 source-wordcount: '380'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -42,3 +42,4 @@ Adobe offre attualmente le seguenti soluzioni Adobe Experience Platform che sodd
 ## Dove posso trovare ulteriori informazioni?
 
 Contatta l’account manager di Adobe della tua organizzazione per eventuali dettagli o domande su questo [annuncio di fine ciclo di vita](https://express.adobe.com/page/GSu6oKOD88GAj/).
+

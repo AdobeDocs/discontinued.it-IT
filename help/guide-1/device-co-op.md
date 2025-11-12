@@ -3,8 +3,8 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: Domande frequenti sulla fine del ciclo di vita di [!DNL Device Co-op]
 description: Scopri i piani di fine del ciclo di vita di Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: f259a6d2bac47e9cf3a829017642119357208c7c
-workflow-type: ht
+source-git-commit: bc05ff57d2dbb6b225bc327ed9cec16d9545e1b4
+workflow-type: tm+mt
 source-wordcount: '1053'
 ht-degree: 100%
 
@@ -105,4 +105,3 @@ Questo dipenderà dalla funzionalità. Ad esempio, se un cliente Analytics Ultim
 ## E per quanto riguarda la metrica sulle [!UICONTROL Persone]?
 
 Con l’esclusione del [!DNL Device Co-op], la metrica sulle [!UICONTROL Persone] non è più rilevante. L’8 maggio 2023 verrà rimossa la metrica [!UICONTROL Persone]. I dati verranno quindi reindirizzati alla metrica [!UICONTROL Visitatore univoco] in Analytics per evitare che si verifichino problemi in progetti, segmenti e metriche calcolate.
-
