@@ -7,10 +7,10 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: dde6a1c269865b6baec6e073a25a3dbd817d3d07
+source-git-commit: dde8fa9bd3747559f475710a5d523223221853ed
 workflow-type: tm+mt
-source-wordcount: '100'
-ht-degree: 2%
+source-wordcount: '198'
+ht-degree: 1%
 
 ---
 
@@ -18,21 +18,77 @@ ht-degree: 2%
 
 Questo è un test nascosto. Sto aggiungendo `[` per assicurarmi che funzioni correttamente nel rendering v2.
 
-12 novembre 2025
+## Apri in una nuova scheda
+
+`[See What's new](auditor.md) {target="_blank"}`
+
+[Apri nella stessa scheda](auditor.md)
+
+[Nuova scheda con spazio tra virgolette](auditor.md) {target="_blank"}
+
+[Nuova scheda senza spazio tra virgolette](auditor.md){target="_blank"}
+
+[Nuova scheda con spazio senza virgolette](auditor.md) {target=_blank}
+
+[Nuova scheda senza spazio senza virgolette](auditor.md){target=_blank}
+
+[Nuova scheda con collegamento profondo](commerce-channels.md#channel-manager-extension){target="_blank"}
+
+[Nuova scheda con collegamento esterno](https://www.adobe.com){target="_blank"}
+
+[Nuovo collegamento directory principale scheda](/help/guide-1/auditor.md){target="_blank"}
+
+
+<table>
+  <tr>
+    <th>Con virgolette</a></th>
+    <th>Senza virgolette</th>
+  </tr>
+  <tr>
+    <td><a href="https://www.adobe.com" target="_blank">Nuova scheda di Adobe</a></td>
+    <td><a href="https://www.adobe.com" target="_blank">Nuova scheda di Adobe</td>
+  </tr>
+  <tr>
+    <td><a href="https://www.adobe.com">Adobe senza nuova scheda</a></td>
+    <td><a href="https://www.adobe.com">Adobe senza nuova scheda</td>
+  </tr>
+</table>
+
+## Test commento
+
+18 novembre 2025
+
+Commenta qui sotto. Se questa è l’ultima cosa che vedi in questo articolo, è dovuto alla sintassi del commento.
+
+1. Fai clic su **[!UICONTROL Crea]**.
+
+<!-- ## Create an exclusion using Advanced Search
+
+You can also create exclusions using [!UICONTROL Advanced Search] on the [Catalog Search](/help/main/c-recommendations/c-products/catalog-search.md#save-as) page ( [!UICONTROL Recommendations] > [!UICONTROL Catalog Search] > [!UICONTROL Advanced Search]). 
+
+![Save as dialog](/help/main/c-recommendations/c-products/assets/save-as.png)
+
+After creating a search using "id > contains," for example, you can then click [!UICONTROL Save As] > [!UICONTROL Exclusion].
+
+>[!IMPORTANT]
+>
+>The [!UICONTROL Advanced Search] functionality is case-insensitive; however, products returned at the time of delivery are based on case-sensitive search. This mismatch might lead to confusion. Ensure that you consider case-sensitivity when you create exclusions based on results using the Advanced Search functionality. For example, if you perform a search for "Holiday," that initial search lists results containing "Holiday" and "holiday." If you then create an exclusion with the intent to exclude products containing "holiday," only products containing "holiday" are excluded. Products containing "Holiday" are not excluded. -->
+
+Questa riga è dopo il commento.
 
 ## Test video
 
 ### Video normale senza trascrizione: dovrebbe mostrare la trascrizione perché metadata.md è in discesa
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Con trascrizione impostata su true
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Con la trascrizione impostata su false: la trascrizione video non deve essere visualizzata
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Collegamenti relativi
 
