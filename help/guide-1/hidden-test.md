@@ -20,15 +20,15 @@ Questo è un test nascosto. Sto aggiungendo `[` per assicurarmi che funzioni cor
 
 ## Apri in una nuova scheda
 
-`[See What's new](auditor.md) {target="_blank"}`
+`[See What's new](auditor.md){target="_blank"} `
 
 [Apri nella stessa scheda](auditor.md)
 
-[Nuova scheda con spazio tra virgolette](auditor.md) {target="_blank"}
+[Nuova scheda con spazio tra virgolette](auditor.md){target="_blank"} 
 
 [Nuova scheda senza spazio tra virgolette](auditor.md){target="_blank"}
 
-[Nuova scheda con spazio senza virgolette](auditor.md) {target=_blank}
+[Nuova scheda con spazio senza virgolette](auditor.md){target=_blank} 
 
 [Nuova scheda senza spazio senza virgolette](auditor.md){target=_blank}
 
