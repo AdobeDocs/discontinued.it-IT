@@ -7,9 +7,9 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: ba551c3fc7714cce505ba95fe83e8608381d1f2c
+source-git-commit: c90ddaf54a79c88d90cf7c699d48e647867a1d1a
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,23 @@ Questo è un test nascosto. Sto aggiungendo `[` per assicurarmi che funzioni cor
 
 ## Apri in una nuova scheda
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [Apri nella stessa scheda](auditor.md)
 
-[Nuova scheda con spazio tra virgolette](auditor.md){target="_blank"} 
+[Nuova scheda con spazio tra virgolette](auditor.md) {target="_blank"}
 
 [Nuova scheda con ancoraggio](auditor.md#_blank)
 
 [Nuova scheda senza spazio tra virgolette](auditor.md){target="_blank"}
 
-[Nuova scheda con spazio senza virgolette](auditor.md){target=_blank} 
+[Nuova scheda con spazio senza virgolette](auditor.md) {target=_blank}
 
 [Nuova scheda senza spazio senza virgolette](auditor.md){target=_blank}
 
 [Nuova scheda con collegamento profondo](commerce-channels.md#channel-manager-extension){target="_blank"}
+
+[Ancoraggio nuova scheda con collegamento profondo](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources#_blank)
 
 [Nuova scheda con collegamento esterno](https://www.adobe.com){target="_blank"}
 
@@ -82,15 +84,15 @@ Questa riga è dopo il commento.
 
 ### Video normale senza trascrizione: dovrebbe mostrare la trascrizione perché metadata.md è in discesa
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Con trascrizione impostata su true
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Con la trascrizione impostata su false: la trascrizione video non deve essere visualizzata
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Collegamenti relativi
 
