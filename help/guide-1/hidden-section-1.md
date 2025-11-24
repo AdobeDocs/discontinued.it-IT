@@ -4,7 +4,7 @@ description: Questo è un test nascosto 1
 auto-video-transcripts: false
 hide: true
 hidefromtoc: true
-source-git-commit: 7f152c467b1805a0f5b47f4dd29b00ee3130d8ef
+source-git-commit: 9150b1804e1832d0f08320739c9dc4919ffea6a3
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 # Test sezione nascosta 1
 
 
-18 novembre 2025
+24 novembre 2025
 
 1. Vai qui
 
@@ -52,8 +52,8 @@ Matt era qui
 
 ## Nessuna trascrizione
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Trascrizione vera
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
