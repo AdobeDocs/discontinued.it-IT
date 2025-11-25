@@ -5,7 +5,7 @@ hide: true
 hidefromtoc: true
 landing-page-breadcrumb-title: Test Analytics
 landing-page-name: analytics
-source-git-commit: 8856ccadd66b40c682be08e8faa274c00d459e06
+source-git-commit: aed53029027389bf0494166cd7c32d5145cd7251
 workflow-type: tm+mt
 source-wordcount: '23'
 ht-degree: 0%
@@ -14,12 +14,14 @@ ht-degree: 0%
 
 # Test sezione nascosta 2
 
-Test nascosto 2 novembre 24
+Test nascosto 2
+
+24 novembre
 
 ## Nessuna trascrizione
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Trascrizione vera
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
