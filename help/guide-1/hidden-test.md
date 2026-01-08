@@ -7,38 +7,38 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: aea0c9a349edb53c36f4b878d9e41447ca118242
+source-git-commit: b22201b34762b11d4a8cdd4b80e9be2b950d311f
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
 # Test nascosto
 
-2 dicembre
+8 gennaio
 
 Questo è un test nascosto. Sto aggiungendo `[` per assicurarmi che funzioni correttamente nel rendering v2.
 
 ## Apri in una nuova scheda {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [Apri nella stessa scheda](auditor.md)
 
-[Nuova scheda con spazio tra virgolette](auditor.md){target="_blank"} 
+[Nuova scheda con spazio tra virgolette](auditor.md) {target="_blank"}
 
-[Nuova scheda con ancoraggio](auditor.md){target=_blank}
+[Nuova scheda con ancoraggio](auditor.md){target=&quot;_blank}
 
 [Nuova scheda senza spazio tra virgolette](auditor.md){target="_blank"}
 
-[Nuova scheda con spazio senza virgolette](auditor.md){target=_blank} 
+[Nuova scheda con spazio senza virgolette](auditor.md) {target=_blank}
 
 [Nuova scheda senza spazio senza virgolette](auditor.md){target=_blank}
 
 [Nuova scheda con collegamento profondo](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Ancoraggio nuova scheda con collegamento profondo](https://experienceleague.adobe.com/it/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[Ancoraggio nuova scheda con collegamento profondo](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [Nuova scheda con collegamento esterno](https://www.adobe.com){target="_blank"}
 
@@ -93,15 +93,15 @@ Questa riga è dopo il commento.
 
 ### Video normale senza trascrizione: dovrebbe mostrare la trascrizione perché metadata.md è in discesa
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Con trascrizione impostata su true
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Con la trascrizione impostata su false: la trascrizione video non deve essere visualizzata
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Collegamenti relativi
 
