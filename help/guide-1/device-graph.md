@@ -2,7 +2,7 @@
 keywords: Device-graph;fine del ciclo di vita
 title: Device Graph
 description: Scopri i piani di fine del ciclo di vita per il grafico dei dispositivi.
-source-git-commit: c7264d94e52fb3efad7d59edd1b73f805a9a00f6
+source-git-commit: 8eb82ca4e8e4585ddc2edbba0de486c700a465bc
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -14,7 +14,6 @@ ht-degree: 0%
 >[!WARNING]
 >
 >Il grafico dei dispositivi in Analytics tra dispositivi non è più disponibile dal **31 dicembre 2025**. Cambiare qualsiasi suite di rapporti virtuali abilitata per Device Graph al [metodo basato sui campi](https://experienceleague.adobe.com/it/docs/analytics/components/cda/field-based-stitching).
->
 
 Analytics tra dispositivi ha utilizzato Private Graph per unire i dati. Private Graph è un archivio di ID dispositivo con hash specifico per la tua organizzazione. CDA comunica regolarmente con il grafico dei dispositivi per collegare i dispositivi.
 
@@ -25,7 +24,6 @@ Se intendevi implementare Analytics tra dispositivi utilizzando il metodo del gr
 >[!WARNING]
 >
 >Il mancato rispetto di tutti i prerequisiti potrebbe comportare l’impossibilità di abilitare Cross-Device Analytics o risultati errati durante l’unione dei dati.
->
 
 * L&#39;organizzazione deve utilizzare il [grafo privato del servizio Adobe Experience Platform Identity](https://business.adobe.com/it/products/experience-platform/identity-service.html). Vedi anche la [home page](https://experienceleague.adobe.com/docs/experience-platform/identity/home.html?lang=it) nella guida utente del servizio Identity.
 * L&#39;implementazione deve utilizzare la versione più recente del servizio Experience Cloud ID (ECID). Consulta la [home page](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=it) nella guida utente del servizio ID. È probabile che il servizio ID sia già stato distribuito per la maggior parte delle implementazioni che utilizzano [Tag](https://experienceleague.adobe.com/docs/experience-platform/tags/home.html?lang=it) in Adobe Experience Platform.
