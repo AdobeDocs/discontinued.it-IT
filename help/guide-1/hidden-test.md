@@ -38,7 +38,7 @@ Questo è un test nascosto. Sto aggiungendo `[` per assicurarmi che funzioni cor
 
 [Nuova scheda con collegamento profondo](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Ancoraggio nuova scheda con collegamento profondo](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[Ancoraggio nuova scheda con collegamento profondo](https://experienceleague.adobe.com/it/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [Nuova scheda con collegamento esterno](https://www.adobe.com){target="_blank"}
 
