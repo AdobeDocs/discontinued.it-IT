@@ -8,16 +8,17 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f3cf599787da4d3d1b9b77bd6207fea46c732dd7
+source-git-commit: dd84fbbd17de8795e1ef6f8c9bc3bd35d9b0847e
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '238'
 ht-degree: 3%
 
 ---
 
 # Test nascosto
 
-4 febbraio 2026 - `hold: true` è attivo.
+4 marzo 2026 - `hold: true` è attivo.
+
 Verifica della nuova chiave
 
 11 febbraio: test della sospensione.
@@ -26,23 +27,23 @@ Questo è un test nascosto. Sto aggiungendo `[` per assicurarmi che funzioni cor
 
 ## Apri in una nuova scheda {#section_92882928}
 
-`[See What's new](auditor.md){target="_blank"} `
+`[See What's new](auditor.md) {target="_blank"}`
 
 [Apri nella stessa scheda](auditor.md)
 
-[Nuova scheda con spazio tra virgolette](auditor.md){target="_blank"} 
+[Nuova scheda con spazio tra virgolette](auditor.md) {target="_blank"}
 
-[Nuova scheda con ancoraggio](auditor.md){target=_blank}
+[Nuova scheda con ancoraggio](auditor.md){target=&quot;_blank}
 
-[Nuova scheda senza spazio tra virgolette](auditor.md){target="_blank"}
+[Nuova scheda senza spazio con virgolette](auditor.md){target="_blank"}
 
-[Nuova scheda con spazio senza virgolette](auditor.md){target=_blank} 
+[Nuova scheda con spazio senza virgolette](auditor.md) {target=_blank}
 
 [Nuova scheda senza spazio senza virgolette](auditor.md){target=_blank}
 
 [Nuova scheda con collegamento profondo](commerce-channels.md#channel-manager-extension){target="_blank"}
 
-[Ancoraggio nuova scheda con collegamento profondo](https://experienceleague.adobe.com/it/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
+[Ancoraggio nuova scheda con collegamento profondo](https://experienceleague.adobe.com/en/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
 [Nuova scheda con collegamento esterno](https://www.adobe.com){target="_blank"}
 
@@ -97,15 +98,15 @@ Questa riga è dopo il commento.
 
 ### Video normale senza trascrizione: dovrebbe mostrare la trascrizione perché metadata.md è in discesa
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ### Con trascrizione impostata su true
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
 
 ### Con la trascrizione impostata su false: la trascrizione video non deve essere visualizzata
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true){transcript=false}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=false}
 
 ## Collegamenti relativi
 
