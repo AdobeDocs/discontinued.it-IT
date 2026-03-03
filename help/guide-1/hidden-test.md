@@ -8,16 +8,17 @@ landing-page-name: experience-manager-65
 feature: Annotations
 hold: true
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: f3cf599787da4d3d1b9b77bd6207fea46c732dd7
+source-git-commit: dd84fbbd17de8795e1ef6f8c9bc3bd35d9b0847e
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '238'
 ht-degree: 3%
 
 ---
 
 # Test nascosto
 
-4 febbraio 2026 - `hold: true` è attivo.
+4 marzo 2026 - `hold: true` è attivo.
+
 Verifica della nuova chiave
 
 11 febbraio: test della sospensione.
@@ -34,7 +35,7 @@ Questo è un test nascosto. Sto aggiungendo `[` per assicurarmi che funzioni cor
 
 [Nuova scheda con ancoraggio](auditor.md){target=_blank}
 
-[Nuova scheda senza spazio tra virgolette](auditor.md){target="_blank"}
+[Nuova scheda senza spazio con virgolette](auditor.md){target="_blank"}
 
 [Nuova scheda con spazio senza virgolette](auditor.md){target=_blank} 
 
