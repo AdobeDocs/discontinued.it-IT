@@ -2,9 +2,9 @@
 title: 'Panoramica dei prodotti fuori produzione di  [!DNL Adobe Experience Cloud] '
 description: Panoramica dei prodotti fuori produzione, ritirati o al fine del ciclo di vita di  [!DNL Adobe Experience Cloud]  e  [!DNL Adobe Experience Platform]
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: d6a0342750804a56c686c966801c411090b9672a
+source-git-commit: 35b52c4a479357f2cae2fdd218c6860653803b8f
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '143'
 ht-degree: 100%
 
 ---
@@ -54,3 +54,4 @@ Adobe talvolta interrompe la vendita, lo sviluppo o il supporto di un prodotto o
 >[!MORELIKETHIS]
 >
 >Per un elenco di ulteriori app e servizi di fine produzione di Adobe, consulta [Prodotti gratuiti e di fine produzione | Opzioni di supporto](https://helpx.adobe.com/it/support/programs/support-options-free-discontinued-apps-services.html).
+
