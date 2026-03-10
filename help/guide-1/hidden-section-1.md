@@ -3,16 +3,16 @@ title: Test sezione 1 nascosto
 description: Questo è un test nascosto 1
 auto-video-transcripts: false
 hide: true
-source-git-commit: 8d2e39e354962d6a04ba48d33c834e885641b2e1
+source-git-commit: 27c6d4270e5a27cc4a95e28625c3f20997f87646
 workflow-type: tm+mt
-source-wordcount: '70'
+source-wordcount: '71'
 ht-degree: 2%
 
 ---
 
 # Test sezione nascosta 1
 
-10 marzo 2026 - Nessun `hold: true` per questo articolo
+10 marzo 2026, 9:25 - Nessun `hold: true` per questo articolo
 
 1. Vai qui
 
@@ -50,8 +50,8 @@ Matt era qui
 
 ## Nessuna trascrizione
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Trascrizione vera
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
