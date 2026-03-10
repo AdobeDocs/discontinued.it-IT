@@ -2,8 +2,7 @@
 keywords: Device-graph;fine del ciclo di vita
 title: Device Graph
 description: Scopri i piani di fine del ciclo di vita per il grafico dei dispositivi.
-hold: true
-source-git-commit: 0ebe153e886f375683ff3fc3a06514617988894b
+source-git-commit: 6d27883347049957d35070dd5c5bf5b223144470
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 2%
