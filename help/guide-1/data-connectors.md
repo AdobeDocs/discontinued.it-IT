@@ -2,7 +2,7 @@
 description: Ulteriori informazioni sull’interruzione delle integrazioni di Data Connectors di Adobe Analytics.
 title: Fine del ciclo di vita delle integrazioni di Data Connectors di Analytics
 exl-id: b407675a-9fcf-4f24-bc88-69ccdb5b3658
-source-git-commit: c9ac8046a5d465fd1e7d5e5cea8add28455efb71
+source-git-commit: 7b43cece7f0c1ab1f7b4dcc6fd445be6ba0c6e8a
 workflow-type: tm+mt
 source-wordcount: '344'
 ht-degree: 91%
@@ -28,3 +28,4 @@ Se sei un partner di Adobe, i dettagli sulla migrazione dell’integrazione al p
 Se sei un cliente dei connettori dati e desideri richiedere la migrazione dell’integrazione utilizzata, invia tutte le richieste direttamente al partner di integrazione. Il partner deve impegnarsi a passare alle nuove API. L’Assistenza clienti di Adobe non può obbligare i partner a passare alle nuove API. A ciascuna società che forniva un’integrazione è stata data la possibilità di migrare la propria integrazione ad Adobe Exchange o di interromperla.
 
 Per domande o supporto, contatta l’Assistenza clienti di Adobe.
+
