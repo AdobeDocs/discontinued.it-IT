@@ -2,10 +2,10 @@
 user-guide-title: Prodotti discontinui per Adobe Experience Cloud
 breadcrumb-title: Prodotti fuori produzione
 user-guide-description: Elenco prodotti interrotti per  [!DNL Adobe Experience Cloud]
-source-git-commit: 8f986d390bbf804faf0188964069a2198a6f5eee
+source-git-commit: 40b867332f0214265a8dd9a0cfb3bb7bd94b21a4
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 61%
+source-wordcount: '57'
+ht-degree: 57%
 
 ---
 
@@ -27,5 +27,6 @@ ht-degree: 61%
 + [Social](/help/guide-1/social.md)
 + [Evasione store per Adobe Commerce](/help/guide-1/commerce-store-fulfillment.md)
 + {hide-from-toc}[Test nascosto - febbraio](/help/guide-1/hidden-test.md)
-+ {hide-from-toc}[Test nascosto - nuovo](hidden-section-1.md)
++ {hide-from-toc}[Sezione nascosta 1](hidden-section-1.md)
++ {hide-from-toc}[Sezione nascosta - 2](/help/guide-1/hidden-section-2.md)
 
