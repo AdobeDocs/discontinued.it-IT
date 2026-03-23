@@ -3,7 +3,8 @@ title: Test sezione 1 nascosto
 description: Questo è un test nascosto 1
 auto-video-transcripts: false
 hide: true
-source-git-commit: 7b43cece7f0c1ab1f7b4dcc6fd445be6ba0c6e8a
+index: false
+source-git-commit: 0d0c957441babe95bad242da4b1249f8019615d1
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 2%
@@ -67,8 +68,8 @@ Matt era qui
 
 ## Nessuna trascrizione
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true)
 
 ## Trascrizione vera
 
->[!VIDEO](https://video.tv.adobe.com/v/3409659?captions=ita&hidetitle=true){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/332116?hidetitle=true){transcript=true}
