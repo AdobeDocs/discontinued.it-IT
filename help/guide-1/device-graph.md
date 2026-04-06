@@ -2,7 +2,7 @@
 keywords: Device-graph;fine del ciclo di vita
 title: Device Graph
 description: Scopri i piani di fine del ciclo di vita per il grafico dei dispositivi.
-source-git-commit: bb33d25c2f7f7fa7a3d133c9f9b7c89387ff78e4
+source-git-commit: 9b3106c730542e531bab4d0f9851b0aeac0553a2
 workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 2%
@@ -34,3 +34,4 @@ Se intendevi implementare Analytics tra dispositivi utilizzando il metodo del gr
 * Gli ID legacy di Analytics non sono supportati. Solo i visitatori con Experience Cloud ID sono uniti.
 * Se l’organizzazione utilizza un grafico privato, i nuovi dispositivi richiedono fino a 24 ore per essere uniti.
 * I grafici dei dispositivi di terze parti non sono supportati.
+
