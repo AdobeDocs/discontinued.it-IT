@@ -1,13 +1,15 @@
 ---
 title: Pagina di prova del flusso di lavoro mirror
-description: Pagina di prova per la convalida del contenuto di markdown con mirroring.
-source-git-commit: 9a324057d8e1459c24057d31d26e30420d85f043
+description: È stata aggiornata la pagina di test per la convalida del contenuto Markdown con mirroring.
+source-git-commit: bf07c3f249ee71069637335f7965e03366cfa88e
 workflow-type: tm+mt
-source-wordcount: '23'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
 # Pagina di prova del flusso di lavoro mirror
 
-Si tratta di un file markdown di prova con frontmatter.
+Questo file è stato aggiornato per verificare che il mirroring selezioni il contenuto più recente dall’archivio di origine.
+
+Se il testo viene visualizzato nell’archivio pubblico, il flusso di lavoro mirror riutilizzabile utilizza la versione prevista.
