@@ -6,15 +6,16 @@ landing-page-breadcrumb-title: Test AEM 6.5
 landing-page-name: experience-manager-65
 feature: Annotations
 exl-id: e6e5ba1c-98a5-4d7d-9913-426df31bc7a3
-source-git-commit: c12654fbc3d13ff53fd5daf3ba5ba2978c3922ca
+source-git-commit: ceebd933f2db110d06a6ef0c1223b6f1aba704d8
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '243'
 ht-degree: 3%
 
 ---
 
 # Test nascosto
 
+24 aprile 2026
 17 marzo 2026 - `hold: true` è disattivato.
 
 13 aprile 2026 - test di matt is
