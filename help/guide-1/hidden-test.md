@@ -26,17 +26,17 @@ Questo è un test nascosto. Sto aggiungendo `[` per assicurarmi che funzioni cor
 
 ## Apri in una nuova scheda {#section_92882928}
 
-`[See What's new](auditor.md) {target="_blank"}`
+`[See What's new](auditor.md){target="_blank"} `
 
 [Apri nella stessa scheda](auditor.md)
 
-[Nuova scheda con spazio tra virgolette](auditor.md) {target="_blank"}
+[Nuova scheda con spazio tra virgolette](auditor.md){target="_blank"} 
 
-[Nuova scheda con ancoraggio](auditor.md){target=&quot;_blank}
+[Nuova scheda con ancoraggio](auditor.md){target=_blank}
 
 [Nuova scheda senza spazio con virgolette](auditor.md){target="_blank"}
 
-[Nuova scheda con spazio senza virgolette](auditor.md) {target=_blank}
+[Nuova scheda con spazio senza virgolette](auditor.md){target=_blank} 
 
 [Nuova scheda senza spazio senza virgolette](auditor.md){target=_blank}
 
