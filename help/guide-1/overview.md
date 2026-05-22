@@ -1,15 +1,15 @@
 ---
-title: 'Panoramica dei prodotti fuori produzione di  [!DNL Adobe Experience Cloud] '
-description: Panoramica dei prodotti fuori produzione, ritirati o al fine del ciclo di vita di  [!DNL Adobe Experience Cloud]  e  [!DNL Adobe Experience Platform]
+title: Panoramica dei prodotti CX Enterprise dismessi
+description: Panoramica dei prodotti dismessi, ritirati o fuori uso per CX Enterprise
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: b090d9f4f4040143b0d2847464785c7ad35de545
+source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 100%
+source-wordcount: '155'
+ht-degree: 80%
 
 ---
 
-# Panoramica dei prodotti fuori produzione di Adobe Experience Cloud
+# Panoramica dei prodotti Adobe CX Enterprise dismessi
 
 Adobe talvolta interrompe la vendita, lo sviluppo o il supporto di un prodotto o di una tecnologia a causa del cambiamento delle condizioni di mercato e dell’impatto sui clienti.
 
@@ -23,6 +23,7 @@ Adobe talvolta interrompe la vendita, lo sviluppo o il supporto di un prodotto o
 * [[!DNL Experience Cloud Library]](experience-cloud-library.md)
 * [[!DNL Experience Platform Auditor]](auditor.md)
 * [[!DNL Livefyre]](livefyre.md)
+* [[!DNL Media SDK] (1.x e 2.x)](media-sdk.md)
 * [[!DNL Mobile Services]](mobile-services.md)
 * [[!DNL Reports & Analytics]](reports-and-analytics.md)
 * [[!DNL Search&Promote]](search-promote.md)
@@ -31,9 +32,6 @@ Adobe talvolta interrompe la vendita, lo sviluppo o il supporto di un prodotto o
 
 <!--
 ## Notifications of upcoming products to be discontinued
-
-* [!DNL Data Workbench] end-of-life date is **December 31, 2023**. [Link]
-
 -->
 
 ## Elenco dei prodotti che hanno cambiato nome
@@ -45,6 +43,7 @@ Adobe talvolta interrompe la vendita, lo sviluppo o il supporto di un prodotto o
 * *[!DNL XML Documentation for Adobe Experience Manager]* ora si chiama *[!DNL Adobe Experience Manager Guides]*.
 * *[!DNL Captivate Prime]* ora si chiama *[!DNL Adobe Learning Manager]*.
 * *[!DNL Bizible]* ora si chiama *[!DNL Marketo Measure]*.
+* *[!DNL Primetime]* ora si chiama *[!DNL Adobe Pass]*.
 
 ## Ulteriori prodotti fuori produzione {#additional-products}
 
