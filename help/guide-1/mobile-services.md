@@ -2,10 +2,10 @@
 title: Domande frequenti sulla fine del ciclo di vita di Adobe Mobile Services
 description: Risposte alle domande più frequenti sull’annuncio relativo alla fine del ciclo di vita di Adobe Mobile Services.
 exl-id: c5f44341-7b87-4530-b86e-17e2911a7959
-source-git-commit: 726b038bfeaf84d7b3ba786e716dff41446d5578
+source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
 workflow-type: tm+mt
-source-wordcount: '450'
-ht-degree: 97%
+source-wordcount: '449'
+ht-degree: 90%
 
 ---
 
@@ -25,7 +25,7 @@ Questo annuncio di fine del ciclo di vita NON include Adobe Analytics per app mo
 
 ## Perché la funzionalità viene ritirata?
 
-Con la continua espansione delle capacità di mobile marketing di Adobe, le funzionalità precedentemente disponibili in Mobile Services verranno rilasciate nelle soluzioni Adobe Experience Cloud o offerte tramite Adobe Exchange Premier Partners. Questa transizione offre funzionalità di mobile marketing più potenti e flessibili.
+Con l&#39;espansione delle funzionalità di mobile marketing di Adobe, le funzionalità precedentemente disponibili in Mobile Services verranno rilasciate nelle soluzioni CX Enterprise o offerte tramite i Premier Partner Adobe Exchange. Questa transizione offre funzionalità di mobile marketing più potenti e flessibili.
 
 ## Cosa succederà alle regole di elaborazione esistenti create in Mobile Services?
 
