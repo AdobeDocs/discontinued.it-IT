@@ -51,15 +51,15 @@ La documentazione legacy è stata archiviata su GitHub ed è disponibile come ri
 
 **Opzione 1: migrazione a Media SDK 3.x (solo Analytics)**
 
-Se utilizzi la versione 2.x e utilizzi esclusivamente Adobe Analytics, la migrazione a 3.x è il percorso più semplice. Per un confronto API completo ed esempi di codice, consulta la [guida alla migrazione da 2.x a 3.x](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html).
+Se utilizzi la versione 2.x e utilizzi esclusivamente Adobe Analytics, la migrazione a 3.x è il percorso più semplice. Per un confronto API completo ed esempi di codice, consulta la [guida alla migrazione da 2.x a 3.x](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html?lang=it).
 
 **Opzione 2: migrazione a Streaming Media per Edge Network (consigliata)**
 
 Per le nuove implementazioni o quando desideri utilizzare i dati in più applicazioni Adobe, utilizza Adobe Experience Platform Edge Network:
 
-* [Media Edge Web SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-web-sdk.html)
-* [SDK mobile di Media Edge](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)
-* [API di Media Edge](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge-api.html)
+* [Media Edge Web SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-web-sdk.html?lang=it)
+* [SDK mobile di Media Edge](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html?lang=it)
+* [API di Media Edge](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/implementation-edge-api.html?lang=it)
 
 ## Domande frequenti
 
@@ -77,7 +77,7 @@ No. I clienti che utilizzano JavaScript SDK per Media Analytics possono continua
 
 +++**Sono ancora in Media SDK 2.x. Cosa devo fare?**
 
-Per tutti i nuovi progetti, Adobe consiglia di migrare all’implementazione di Edge Network. Se hai bisogno di un passaggio intermedio, [Esegui la migrazione da JavaScript SDK 2.x a 3.x](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html), quindi pianifica il passaggio ad Edge Network.
+Per tutti i nuovi progetti, Adobe consiglia di migrare all’implementazione di Edge Network. Se hai bisogno di un passaggio intermedio, [Esegui la migrazione da JavaScript SDK 2.x a 3.x](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html?lang=it), quindi pianifica il passaggio ad Edge Network.
 
 +++
 
@@ -85,8 +85,8 @@ Per tutti i nuovi progetti, Adobe consiglia di migrare all’implementazione di 
 
 L’impegno di migrazione dipende dall’implementazione di ogni cliente e varia. Dopo aver esaminato la documentazione sulla migrazione, rivolgiti alla consulenza o all’assistenza clienti per richiedere supporto aggiuntivo:
 
-* [Implementare contenuti multimediali in streaming utilizzando Mobile Edge SDK: Android e iOS](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html)
-* [Migrazione da JavaScript SDK 2.x a 3.x](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html)
+* [Implementare contenuti multimediali in streaming utilizzando Mobile Edge SDK: Android e iOS](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html?lang=it)
+* [Migrazione da JavaScript SDK 2.x a 3.x](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/media-sdk/setup/migrate-js-2x-to-3x.html?lang=it)
 
 +++
 
@@ -98,13 +98,13 @@ Per le implementazioni delle app mobili, i tag di Experience Platform non vengon
 
 +++**Questa fine del supporto influisce su SDK per tvOS?**
 
-Sì. Per tvOS (versione 10+) l’implementazione consigliata è quella di migrare a Streaming Media per Edge Network utilizzando Adobe Experience Platform Mobile SDK. Per ulteriori informazioni, vedere [Implementare contenuti multimediali in streaming utilizzando l&#39;Edge SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html) per dispositivi mobili.
+Sì. Per tvOS (versione 10+) l’implementazione consigliata è quella di migrare a Streaming Media per Edge Network utilizzando Adobe Experience Platform Mobile SDK. Per ulteriori informazioni, vedere [Implementare contenuti multimediali in streaming utilizzando l&#39;Edge SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html?lang=it) per dispositivi mobili.
 
 +++
 
 +++**Questa fine del supporto influisce su SDK per Fire TV e Android TV?**
 
-Sì. Per Fire TV e Android TV, l’implementazione consigliata è quella di migrare a Streaming Media per Edge Network utilizzando Adobe Experience Platform Mobile SDK. Per ulteriori informazioni, vedere [Implementare contenuti multimediali in streaming utilizzando l&#39;Edge SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html) per dispositivi mobili.
+Sì. Per Fire TV e Android TV, l’implementazione consigliata è quella di migrare a Streaming Media per Edge Network utilizzando Adobe Experience Platform Mobile SDK. Per ulteriori informazioni, vedere [Implementare contenuti multimediali in streaming utilizzando l&#39;Edge SDK](https://experienceleague.adobe.com/docs/media-analytics/using/implementation/edge/edge-mobile-sdk.html?lang=it) per dispositivi mobili.
 
 +++
 
