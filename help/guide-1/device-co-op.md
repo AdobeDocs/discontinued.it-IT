@@ -3,16 +3,16 @@ keywords: device co-op;Device Co-op;fine del ciclo di vita
 title: Domande frequenti sulla fine del ciclo di vita di [!DNL Device Co-op]
 description: Scopri i piani di fine del ciclo di vita di Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: d014c200dd926ccf0116faa50c4bffb1d234e926
+source-git-commit: bd104719cf4dd8e9f2bb1c15f4d30e4ddfcf743c
 workflow-type: tm+mt
-source-wordcount: '1215'
+source-wordcount: '1213'
 ht-degree: 95%
 
 ---
 
 # Domande frequenti sulla fine del ciclo di vita di [!DNL Device Co-op]
 
-Questo documento fornisce le risposte alle domande più frequenti sul piano di fine del ciclo di vita (EOL) di CX Enterprise Device Co-op. Quando questo piano entrerà in vigore, Adobe fornirà un avviso avanzato nelle [note sulla versione centrale di CX Enterprise](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=it) e nell&#39;[aggiornamento prioritario del prodotto](https://www.adobe.com/it/subscription/priority-product-update.html).
+Questo documento fornisce le risposte alle domande più frequenti sul piano di fine del ciclo di vita di Device Co-op (EOL). Quando questo piano entrerà in vigore, Adobe fornirà un avviso avanzato nelle [note sulla versione centrale di Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=it) e nell&#39;[aggiornamento prioritario del prodotto](https://www.adobe.com/it/subscription/priority-product-update.html).
 
 [!DNL Device Co-op] è stato un programma che consentiva ai partecipanti di collaborare per identificare meglio i consumatori in diversi punti di contatto digitali, garantendo al contempo il massimo livello di privacy e trasparenza.
 
