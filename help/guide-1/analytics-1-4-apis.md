@@ -29,7 +29,7 @@ Ritira anche l&#39;**autenticazione Adobe Analytics WSSE** (vedi [autenticazione
 
 >[!IMPORTANT]
 >
->Questa fine del ciclo di vita *non* influisce sulla raccolta dati. Non influisce sulle soluzioni di assegnazione tag come Tag (precedentemente Adobe Launch), Web SDK e AppMeasurement. Anche l&#39;API di inserimento dati [1} è *non* ritirata. ](#data-insertion-api)Tuttavia, se utilizzi le API di origini dati o classificazioni 1.4 per migliorare i dati, devi migrare tali flussi di lavoro alle API di Adobe Analytics 2.0.
+>Questa fine del ciclo di vita *non* influisce sulla raccolta dati. Non influisce sulle soluzioni di assegnazione tag come Tag (precedentemente Adobe Launch), Web SDK e AppMeasurement. Anche l&#39;API di inserimento dati [1&rbrace; è *non* ritirata. &#x200B;](#data-insertion-api)Tuttavia, se utilizzi le API di origini dati o classificazioni 1.4 per migliorare i dati, devi migrare tali flussi di lavoro alle API di Adobe Analytics 2.0.
 
 ## Autenticazione WSSE
 
