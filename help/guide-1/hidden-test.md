@@ -41,7 +41,7 @@ Questo è un test nascosto. Sto aggiungendo `[` per assicurarmi che funzioni cor
 
 [Ancoraggio nuova scheda con collegamento profondo](https://experienceleague.adobe.com/it/docs/analytics/analyze/home#key-analytics-resources){target="_blank"}
 
-[Nuova scheda con collegamento esterno](https://www.adobe.com){target="_blank"}
+[Nuova scheda con collegamento esterno](https://www.adobe.com/it){target="_blank"}
 
 [Nuovo collegamento directory principale scheda](/help/guide-1/auditor.md){target="_blank"}
 
@@ -52,12 +52,12 @@ Questo è un test nascosto. Sto aggiungendo `[` per assicurarmi che funzioni cor
     <th>Senza virgolette</th>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com" target="_blank">Nuova scheda di Adobe</a></td>
-    <td><a href="https://www.adobe.com" target="_blank">Nuova scheda di Adobe</td>
+    <td><a href="https://www.adobe.com/it" target="_blank">Nuova scheda di Adobe</a></td>
+    <td><a href="https://www.adobe.com/it" target="_blank">Nuova scheda di Adobe</td>
   </tr>
   <tr>
-    <td><a href="https://www.adobe.com">Adobe senza nuova scheda</a></td>
-    <td><a href="https://www.adobe.com">Adobe senza nuova scheda</td>
+    <td><a href="https://www.adobe.com/it">Adobe senza nuova scheda</a></td>
+    <td><a href="https://www.adobe.com/it">Adobe senza nuova scheda</td>
   </tr>
 </table>
 
